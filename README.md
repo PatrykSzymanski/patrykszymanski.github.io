@@ -1,0 +1,1 @@
+# patrykszymanski.github.io

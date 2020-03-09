@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="342px" height="264px" viewBox="0 0 342 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-large:-Desktops---12-col" transform="translate(-1163.000000, -2175.000000)">
+            <g id="Group-10" transform="translate(1163.000000, 2175.000000)">
+                <g id="Group-7" fill="#FFD600" stroke="#1A1A1A" stroke-width="4">
+                    <rect id="Rectangle" x="2" y="2" width="338" height="260"></rect>
+                </g>
+                <g id="Group-9" transform="translate(120.000000, 30.000000)" fill="#1A1A1A">
+                    <rect id="Rectangle" x="0" y="83" width="103" height="90"></rect>
+                    <rect id="Rectangle" x="8" y="169.28" width="87" height="35"></rect>
+                    <g id="Group-8" transform="translate(18.837209, 0.000000)">
+                        <polygon id="Rectangle" transform="translate(15.697829, 33.133852) rotate(20.000000) translate(-15.697829, -33.133852) " points="11.7402278 -0.00551062579 19.6978292 -0.0121755744 19.6554306 66.2732149 11.6978292 66.2798798"></polygon>
+                        <polygon id="Rectangle" transform="translate(41.106806, 33.133758) rotate(20.000000) translate(-41.106806, -33.133758) " points="37.1492044 -0.00550453268 45.106806 -0.0121694909 45.0644075 66.2730205 37.106806 66.2796854"></polygon>
+                        <polygon id="Rectangle" transform="translate(65.850992, 33.133758) rotate(20.000000) translate(-65.850992, -33.133758) " points="61.8933904 -0.00550453267 69.850992 -0.0121694909 69.8085936 66.2730205 61.850992 66.2796854"></polygon>
+                    </g>
+                    <path d="M103.5,155 C118.687831,155 131,142.687831 131,127.5 C131,112.312169 118.687831,100 103.5,100 C88.3121694,100 76,112.312169 76,127.5 C76,142.687831 88.3121694,155 103.5,155 Z M103.5,144 C94.3873016,144 87,136.612698 87,127.5 C87,118.387302 94.3873016,111 103.5,111 C112.612698,111 120,118.387302 120,127.5 C120,136.612698 112.612698,144 103.5,144 Z" id="Oval" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
