@@ -57,7 +57,7 @@ header {
 
 h3 {
   color: #1a1a1a;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 #about_me {
@@ -238,6 +238,10 @@ footer {
 
   h2 {
     font-size: 300%;
+  }
+
+  h3 {
+    font-size: 24px;
   }
 
   .header_p,
