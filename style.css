@@ -15,7 +15,7 @@ body {
 }
 
 .profile_picture {
-  height: 201px;
+  height: auto;
   width: 315px;
 }
 
