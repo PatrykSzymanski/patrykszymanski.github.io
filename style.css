@@ -105,14 +105,13 @@ a:hover {
 }
 
 .card_container {
-  cursor: pointer;
   display: flex;
   padding: 15px;
   background-color: #ffd600;
   flex-direction: column;
   margin-bottom: 100px;
   align-items: center;
-  box-shadow: 11px -7px 0px 0px #3657d9;
+  box-shadow: 10px -8px 0px 0px #3657d9;
 }
 
 .card_lines img {
@@ -306,6 +305,7 @@ footer {
   .portfolio_1:hover,
   .portfolio_2:hover,
   .portfolio_3:hover {
+    cursor: pointer;
     box-shadow: 8px -6px 0px 0px #D93636;
   }
 
