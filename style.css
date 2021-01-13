@@ -60,6 +60,10 @@ h3 {
   font-size: 18px;
 }
 
+h4 {
+  font-size: 16px;
+}
+
 #about_me {
   padding-bottom: 50px;
 }
@@ -242,6 +246,11 @@ footer {
 
   h3 {
     font-size: 24px;
+  }
+
+  h4 {
+    color: #1a1a1a;
+    font-size: 20px;
   }
 
   .header_p,
